@@ -1,0 +1,4 @@
+# never commit secrets
+.streamlit/
+secrets.toml
+*.json

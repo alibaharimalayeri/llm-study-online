@@ -1,0 +1,4 @@
+qid,question,model_answer
+Q1,"What is the capital of France?","The capital of France is Paris."
+Q2,"Explain overfitting in ML.","Overfitting is when a model memorizes training data and fails to generalize."
+Q3,"What is TCP/IP?","TCP/IP is a suite of communication protocols used to interconnect network devices."
